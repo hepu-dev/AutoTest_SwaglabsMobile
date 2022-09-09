@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c178ee10-8630-4efa-abee-d064587ca154</testCaseGuid>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>13448ae7-d8df-4a5d-bc8e-9a748a2aae32</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>c12c46d3-1214-4c5d-8018-e78e51f807f6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

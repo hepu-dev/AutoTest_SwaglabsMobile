@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2e89f0e-ecd9-4ef4-b7ed-409f182294a4</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>360850e4-35ff-48e8-974a-c90a73c36c25</id>
+      <masked>false</masked>
+      <name>Total</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1db7f56-b482-48ca-ae3a-b9661365ee89</id>
+      <masked>false</masked>
+      <name>Item0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd6bb9fe-0085-4823-a4c2-559bc95125aa</id>
+      <masked>false</masked>
+      <name>Item1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22bbfb2a-5420-4300-8ef4-abcfeae51111</id>
+      <masked>false</masked>
+      <name>Item2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f5350ba-5fc5-410a-8d89-06cc5ce1f1d9</id>
+      <masked>false</masked>
+      <name>Item3</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>657e7255-ead4-4783-9e16-7f2cd48c5413</id>
+      <masked>false</masked>
+      <name>Item4</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a259c13-7ed6-4a54-8401-5fdb39922131</id>
+      <masked>false</masked>
+      <name>Item5</name>
+   </variable>
+</TestCaseEntity>
